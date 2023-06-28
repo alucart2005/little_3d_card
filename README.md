@@ -7,7 +7,7 @@ My first steps in HTML and CSS 😎
 
 -	[https://www.linkedin.com/in/napoleon-anaya/](https://www.linkedin.com/in/napoleon-anaya/)
 
-## Preview 
+## Preview
 
 ![..]()
 
